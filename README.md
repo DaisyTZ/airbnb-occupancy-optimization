@@ -39,9 +39,9 @@ Our Premium Program identifies the most impactful listing features (e.g., superh
 - Hosts in all segments can benefit from data-informed feature optimization
 - Feature adjustments led to a **40% increase in predicted occupancy** in a real-world test scenario
 
-## 📂 Repository Structure
+##  Repository Structure
 - `model `: Including three clusters modeling with low, medium, and high night rate
-- `data`: Using the Airbnb dataset from Washington region ( the dataset is too large to upload)
+- `data`: Using the Airbnb dataset from the Washington region ( the dataset is too large to upload)
 - `report `: Including the presentation slide and summary report
 
 ---
